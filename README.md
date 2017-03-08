@@ -7,8 +7,7 @@ Convert Country (ISO 3166-2) and Language (ISO 639-1) codes to full text.
 Add this line at the end of the ```<body>``` tag in your ```.html``` file:
 
 ```html
-  <script src="https://aculligan.github.io/CDN/localeISO/localeISO-min.js"></script>
-</body>
+<script src="https://aculligan.github.io/CDN/localeISO/localeISO-min.js"></script>
 ```
 
 Use ```<langISO>```, ```<langISOL>```, ```<cntryISO>```, or ```<cntryISO>``` tags with the ISO code:
