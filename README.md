@@ -1,6 +1,6 @@
 # localeISO.js
 
-Convert Country (ISO 3166-2) and Language(ISO 639-1) codes to full text.
+Convert Country (ISO 3166-2) and Language (ISO 639-1) codes to full text.
 
 ## Installation
 
@@ -16,8 +16,8 @@ Use ```<langISO>```, ```<langISOL>```, ```<cntryISO>```, or ```<cntryISO>``` tag
 <cntryISO>es</cntryISO> => Spain
 <cntryISOL>es</cntryISOL> => España
 
-<langISO>ja</langISO> => Japanese
-<langISOL>ja</langISOL> => 日本語
+<langISO>es</langISO> => Spanish
+<langISOL>es</langISOL> => Español
 ```
 
 More information [here](https://aculligan.github.io/work/localeiso).
